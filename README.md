@@ -10,7 +10,7 @@ Pas d'article défini ou indifini (un, une, le, la etc.).
 
 ## Pas de genre
 
-Pas de masculin / féminin / neutre.
+Pas de masculin / féminin / neutre. Ca sert à rien, ça dégage.
 
 
 ## Pas de nombre
@@ -36,13 +36,21 @@ En japonais, il n'y a pas de genre et pas de nombre, ceci dit, c'est presque dom
 Les cas sont: 
 
 Sujet Thématique - wa (は)
+
 Nominatif – ga (が)
+
 Accusatif – o (を)
+
 Genitif – no (の)
+
 Datif – ni (に)
+
 Latif – e (へ) (la destination)
+
 Ablatif – kara (から), (l'origine)
+
 Instrumental/Locatif – de (で)
+
 
 Comme dans les autres langues à déclinaison, l'ordre des mots n'affecte pas le sens de la phrase, c'est le cas grammatical qui est important. Et comme dans les autres langues à déclinaison, une phrase uniquement composée d'un verbe est grammaticalement correcte. En gros, on a tous les avantages des langues à déclinaison, sans les inconvénients.
 
@@ -148,8 +156,7 @@ Ils combinent des composants pour représenter un concept. 休 veut dire "repos"
 
 Ils combinent une composante phonétique et une composante sémantique. La composante phonétique indique le son du kanji, et la composante sémantique donne un indice sur le sens.
 
-Par exemple **寺** se prononce **ji** et ça veut dire temple bouddhiste (par opposition à un temple shinto).
-**時** va aussi se prononcer **ji** et veut dire "heure, temps, moment", via l'ajout de la composante sémantique **日**, tandis que **痔** qui se prononce aussi **ji** se voit ajouter le radical **疒**, et ça devient hemorroide. 
+Par exemple **寺** se prononce **ji** et ça veut dire temple bouddhiste (par opposition à un temple shinto). **時** va aussi se prononcer **ji** et veut dire "heure, temps, moment", via l'ajout de la composante sémantique **日**, tandis que **痔** qui se prononce aussi **ji** se voit ajouter le radical **疒**, et ça devient hemorroide. 
 
 
 # Pourquoi c'est la merde ?
@@ -173,11 +180,13 @@ Le caractère **日** est un pictogramme qui représente le soleil (faut connait
 Quand ce kanji débarque au japon au 5ème siecle, les japonais ont déjà un mot pour dire "jour", c'est ***hi***, donc ils vont lire 日 ***hi***, mais ils ont aussi un mot pour dire "jour du mois" donc ils vont aussi lire 日 - ***ka***. Cette lecture c'est le **kun-yomi** qui emploie la lecture sémantique du kanji qui y attribue un mot d'origine japonaise préexistant.
 
 Le mot **日** qui s'écrit juste avec le kanji 日 se lit ***hi***.
+
 Le mot 二**日**酔い se prononce futsu**ka**yoi. Ca veut dire "gueule de bois" (lit. ivresse du second jour).
 
 Sauf que les marchands chinois qui ont importés ce Kanji au 5ème, ils l'utilisaient et ils avaient leur propre lecture que les japonais ont transformé en "jitsu" en se l'appropriant, cette lecture c'est le **go-on**. Sauf que ces marchands chinois, c'était pas des Han, c'était des Wu. Quand les Han ont débarqué au 8ème siecle ils avaient aussi leur propre lecture que les japonais se sont empressés d'embarquer et de transformer en "nichi" qui est le **kan-yomi** de ce kanji. L'ensemble des lectures sino-japonaises du kanji s'appellent **on-yomi**.
 
 Le mot 本**日** se prononce hon**jitsu** et ça veut dire "aujourd'hui", dans un language assez soutenu.
+
 Le mot **日**常 se prononce **nichi**you et ça veut dire "quotidien, ordinaire".
 
 Et ça c'est des exemples qui ne sont pas tordus, parce qu'on a pas encore commencé les trucs tordus. Déjà, on peut trouver des mots qui combinent différents types de lecture.
@@ -187,12 +196,15 @@ Le mot **日**曜**日** se prononce **nichi**you**bi**. Le premier **日** se l
 Ensuite japonais écrivent les noms propres avec des kanji, et les kanjis dans les noms propres emploient des lectures différentes appellées **nanori**.
 
 Le prénom **日** se lit **aki**.
+
 Le prénom **日**太 se lit **haru**ta.
+
 Il y a 14 autres **nanori** pour le kanji 日, j'ai même pas la foi d'aller chercher des exemples...
 
 Et c'est pas fini, le cauchemar continue.
 
 Le mot 今**日** se prononce **kyou**, le kanji **日** dans ce mot n'a pas de prononciation, c'est comme ça, le monde est injuste. Et ça veut dire "aujourd'hui".
+
 Le mot 今**日** se prononce kon**nichi**, et lui a une lecture on-yomi régulière, et il veut également dire "aujourd'hui".
 
 
