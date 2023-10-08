@@ -2,22 +2,16 @@
 
 La très large majorité des trucs chiants ou tordus qu'on doit apprendre par coeur et qui sont source d'erreur dans les autres langues n'existent pas vraiment en japonais.
 
-
-## Pas d'article
-
-Pas d'article défini ou indifini (un, une, le, la etc.).
-
-
-## Pas de genre
-
-Pas de masculin / féminin / neutre. Ca sert à rien, ça dégage.
-
+- Pas d'article. Ni défini, ni indifini, C'est useless, on jette.
+- Pas de genre. Masculin / féminin / neutre. Ca sert à rien, ça dégage.
+- Pas de nombre. T'as pas besoin de pluriel.
+- Pas de déclinaisons. 
 
 ## Pas de nombre
 
 Il existe des affixes de collectivisation des noms pour définir un ensemble par opposition à une seule occurence. 
 
-Par reduplication 人　>　人々　(Hito > Hitobito ). 人々　veut dire "des gens" ou "le peuple", mais pas "plusieurs personnes" (々 est un marqueur de répétition pour éviter de réécrire le même kanji).
+Par reduplication 人　>　人々　(Hito > Hitobito ). 人々　veut dire "des gens" ou "le peuple", mais pas "personnes" au pluriel (々 est un marqueur de répétition pour éviter de réécrire le même kanji).
 
 Par les suffixes -tachi (達) and -ra (等) qui désignent un groupe incluant le nom qu'ils suivent, et ça ne se fait qu'avec certain mots.
 
@@ -29,7 +23,7 @@ Ben forcément, pas de genre, pas de nombre, y'a rien à accorder entre les adje
 
 ## Pas de déclinaisons
 
-Un des autres trucs pénibles qu'on nous fait bouffer en allemand/russe/latin etc. En soi les déclinaisons c'est cool pour connaitre directement le cas gramatical d'un groupe nominal via une inflection. Mais cette inflection est combinatoire par le genre et par le nombre (et souvent par groupe de déclinaison), c'est ce qui fait que les déclinaisons prennent la forme de tableaux, beaucoup de tableaux. C'est la purge pour les apprendre mais pouvoir connaitre le cas gramatical d'un mot mais c'est surpuissant car tu deviens beaucoup plus flex sur l'ordre des mots. 
+
 
 
 ## Pas de pronoms possessif ou reflechis
@@ -72,7 +66,7 @@ Une more en japonais correspond à un kana tout seul "あ, じ, ん..." **sei-on
  |りゃ|      |りゅ|      |りょ| － |      |      |      |      |     |      |      |      |      |
 
 
-### La vocalisation
+## La vocalisation
 
 En regardant le tableau des kana, on voit que certains kana ont des marqueurs, par exemple **ひ** / **び** / **ぴ** pour les sons hi, bi et pi c'est pas un hasard.
 Les diacritiques **ﾞ** et **ﾟ** marquent les prononciations **daku-on**.
@@ -82,7 +76,7 @@ Le marqueur **ﾞ** s'appelle **dakuten** et signale les prononciations vocalis�
 Le marqueur diacritique **ﾟ** s'appelle **handdakuten** et signale les prononciations plosives du kana de base. Passer de **hi** à **pi** consiste à rendre la consonne plosive avec ses levres.
 
 
-### La dévocalisation
+## La dévocalisation
 
 Concernant les voyelles, il y a un phénomène de dévocalisation des voyelles **u** et **i** quand elles sont entre deux consonnes non-vocalisées ou entre une consonne non-vocalisée et une pause quand elle n'est pas accentuée.
 
@@ -90,13 +84,35 @@ C'est ce qui fait que **です** et **ます**, qui précèdent toujours une pau
 
 Un autre exemple serait **靴 (くつ)** qui se prononce plus "k'tsu" que "kutsu" à cause de ce phénomène de dévocalisation. Ca a l'air compliqué, mais ça s'intègre assez facilement en écoutant et quand on le maitrise un peu, on sonne de ouf comme un vrai japonais.
 
-### L'élongation
+## L'élongation
 
 Certains mots ont des voyelles allongées, les mores se finissant par a,i et u sont allongées avec un あ,い,う, mais les mores finissant par o sont allongées en ajoutant un う et les mores finissant par e sont allongées en ajoutant un い. Et comme c'est allongé, ça rajoute une more.
 
-### La germination 
+## La germination 
 
-On emploie un hakuon (ou petit tsu) **っ** (regular **つ** for scale) pour marquer la germination de la consonne qui le suit, en gros on prononce les double consonnes. C'est quelque chose qui apparait souvent quand on combine deux mots dont le premier finit par つ ou ち.
+On emploie un hakuon (ou petit tsu) **っ** (regular **つ** for scale) pour marquer la germination de la consonne qui le suit, en gros on essaye de prononcer les double consonnes. C'est quelque chose qui apparait souvent quand on combine deux mots dont le premier finit par つ ou ち.
+
+## L'accent chromatique
+
+L'accentuation des mots se fait via la tonalité des mores composant un mot. La prononciation correcte d'un mot nécessite de le prononcer en montant le ton sur certaines mores. La particule qui suit le mot est affectée par l'accent. 
+
+Il n'y a que 4 patterns en japonais moderne standard, 
+
+### Heiban - La forme monotone
+
+Dans さ**くら が** on monte entre la première et la seconde more et on reste haut jusqu'à la particule inclue. La forme s'appèle monotone ou plate, mais elle ne l'est pas réellement car on monte au début.
+
+### Atamadaka - La forme à tête haute
+
+Dans **せ**かい が on commence haut et on déscend entre la première et la seconde more.
+
+### Nakadaka - La forme à centre haut
+
+Dans こ**こ**ろ が on monte entre la première et la seconde more et on redescend après la seconde.
+
+### Odaka - La forme à queue haute
+
+Dans お**とうと** が on monte entre la première et la seconde more mais on redescend pour la particule. Si il n'y a pas de particule, c'est identique à la forme heiban.
 
 
 # La grammaire
@@ -104,31 +120,33 @@ On emploie un hakuon (ou petit tsu) **っ** (regular **つ** for scale) pour mar
 On reste dans les bonne nouvelles, la grammaire japonaise est un truc super élégant
 
 
-### les 3 particules は, を et へ.
 
-は, を et へ. se prononcent respectivement (wa, o, e) au lieu de (ha, wo, he) quand elles sont des particules et normalement le reste du temps. La raison pour ça est que l'orthographe a été réformée en 1900 mais c'eut été trop chelou de changer ceux là car ça rendait les phrases impossibles à parser d'un coup d'oeil. Ca a l'air horrible en théorie mais en pratique on se rend vite compte que c'était un très bon move de ne pas toucher aux particules.
-
-
+## Les particules
 
 En japonais, il n'y a pas de genre et pas de nombre, c'est presque dommage de ne pas avoir de déclinaisons, du coup... Et c'est là que la magie opère: Il y a des particules de cas grammatical qui font exactement la même chose que les déclinaisons, et c'est même pas une inflection, c'est juste un truc que t'ajoutes après ton groupe nominal.
 
-Donc au lieu d'avoir un tableau multidimentionnel de cas x genre x nombre x groupe de déclinaison, on a un tableau à une dimension.
 
-Particules de cas 格助詞
-| Cas           |      | Prononciation | Usage
-|:--------------|:-----|---------------|:------
-| Nominatif     | が   | ga            |
-| Accusatif     | を   | o             |
-| Genitif       | の   | no            |
-| Datif         | に   | ni            |
+
+### Les particules de cas 格助詞
+
+Un des autres trucs pénibles qu'on nous fait bouffer en allemand/russe/latin etc, c'est les déclinaisons. En soi les déclinaisons c'est cool, ça permet de connaitre directement le cas gramatical d'un groupe nominal via une inflection sauf que c'est la purge à apprendre. Mais cette inflection est combinatoire par le genre et par le nombre et souvent par groupe de déclinaison, c'est ce qui fait que les déclinaisons prennent la forme de tableaux, genre beaucoup de tableaux ou alors un seul tableau mais avec beaucoup de multidimentions.
+
+Nous, en japonais on a pas de genre, pas de nombre, donc déjà si on avait des déclinaisons ça serait pas si pire, on aurait un tableau à une dimension, mais on a un truc encore mieux, le cas grammatical, on l'indique avec une particule, qu'on colle après un groupe nominal, et bam ça nous dit le cas grammatical du groupe nominal direct.
+
+Comme dans les langues à déclinaison, l'ordre des mots n'affecte pas le sens de la phrase, c'est le cas grammatical qui est important. Et comme dans les autres langues à déclinaison, une phrase uniquement composée d'un verbe est grammaticalement correcte. En gros, on a tous les avantages des langues à déclinaison, sans les inconvénients.
+
+| Cas           |      | Prononciation | Usage----------------------|
+|:--------------|:-----|---------------|:---------------------------|
+| Nominatif     | が   | ga            | le sujet                   |
+| Accusatif     | を   | o             | l'objet direct             |
+| Genitif       | の   | no            | le rapport attributif      |
+| Datif         | に   | ni            | l'objet indirect           |
+| Instrumental  | で   | de            | le moyen ou l'instrument   |
+| Locatif       | で   | de            | la localisation            |
 | Latif         | へ   | e             | la destination             |
-| Instrumental  | で   | de            |
-| Locatif       | で   | de            |
-| Ablatif       | から | kara          | l'origine
+| Ablatif       | から | kara          | l'origine                  |
 | Terminatif    | まで | made          | la limite                  |
 | Comparatif    | より | yori          | l'objet d'une comparaison  |
-
-Comme dans les autres langues à déclinaison, l'ordre des mots n'affecte pas le sens de la phrase, c'est le cas grammatical qui est important. Et comme dans les autres langues à déclinaison, une phrase uniquement composée d'un verbe est grammaticalement correcte. En gros, on a tous les avantages des langues à déclinaison, sans les inconvénients.
 
 La seule particularité notable est celui du marquage spécial pour le sujet thématique (par opposition au sujet grammatical) avec la particule wa (は). On peut le traduire par "Au sujet de ...". C'est source de confusion avec le sujet grammatical mais il faut comprendre que déjà, ça peut remplacer le sujet ou l'objet ou aucun des deux, et que si ça remplace un membre de la phrase, celui ci est sous-entendu.
 
@@ -137,6 +155,9 @@ En général, on spécifie le sujet grammatical quand on veut spécifiquement me
 Particules adverbiales 副助詞
 
 
+### La prononciation des particules は, を et へ.
+
+は, を et へ. se prononcent respectivement (wa, o, e) au lieu de (ha, wo, he) quand elles sont des particules et normalement le reste du temps. La raison pour ça est que l'orthographe a été réformée en 1900 mais c'eut été trop chelou de changer ceux là car ça rendait les phrases impossibles à parser d'un coup d'oeil. Ca a l'air horrible en théorie mais en pratique on se rend vite compte que c'était un très bon move de ne pas toucher aux particules. T'as pas envoie d'avoir des お, des え　et des わ qui se baladent dans les phrases, surtout à la fin de mots là ou は, を et へ sont très faciles à repérer pour analyser rapidement une phrase. を n'est même pas utiliseé ailleurs dans la langue.
 
 
 
