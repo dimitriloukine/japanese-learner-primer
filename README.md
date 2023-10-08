@@ -74,6 +74,7 @@ Et en plus la notion de syllabe n'est pas réellement pertinente en japonais, et
 Tōkyō (to-o-kyo-o, とうきょう) et Ōsaka (o-o-sa-ka, おおさか) Nagasaki (na-ga-sa-ki, ながさき) se décomposent respectivement en 2,3 et 4 syllabes, mais tous se décomposent en 4 mores. 
 
 Une more en japonais correspond à un kana tout seul "あ, じ, ん..." **sei-on** ou une combinaison de kana prédéfinie "じゃ, りょ... **yo-on** ".
+
  |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
  |  あ  |  い  |  う  |  え  |  お  |     |  －  |  －  |  －  |  －  |  － |     |  －  |  －  |  －  |  －  |  －  |
  |  か  |  き  |  く  |  け  |  こ  |     |  が  |  ぎ  |  ぐ  |  げ  |  ご |     |  －  |  －  |  －  |  －  |  －  |
