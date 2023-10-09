@@ -141,8 +141,11 @@ La seule particularité notable est celui du marquage spécial pour le sujet th�
 
 En général, on spécifie le sujet grammatical quand on veut spécifiquement mettre l'emphase dessus, "C'est moi qui l'ai mangé", ou dans le cas d'une proposition subordonnée car il y a plusieurs sujets dans la phrase mais un seul thème.
 
-Particules adverbiales 副助詞
+## La particule は
 
+TODO 
+
+Il existe beaucoup d'autre particules qui ne marquent pas un cas grammatical, 
 
 
 
@@ -184,7 +187,19 @@ Leur sens est parfois décorellé de leur langue d'origine, **ベビーカー** 
 
 C'est - par définition - une classe ouverte.
 
+
+## Les nombres
+
+TODO 
+
+Il existe deux façons de comtper en japonais, une en wago et une en kango. La façon dominante est de compter en kango
+
+Déjà, en wago, on n'a que les nombres de 1 à 10 et 20.
+
+
 ## Les compteurs
+
+TODO 
 
 Les nombres qui désignent une quantité de quelque chose en japonais sont 
 
@@ -194,13 +209,13 @@ La langue japonaise est empreinte des règles de politesse de la société japon
 
 
 ### Teineigo - Le language poli
-
+TODO
 ### Sonkeigo - Le language honorifique
-
+TODO
 ### Kenjougo - Le language humble
-
+TODO
 ### Tameguchi - La language familier
-
+TODO
 
 
 # Le système d'écriture est claqué au sol
