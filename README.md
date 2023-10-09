@@ -5,6 +5,7 @@ La très large majorité des trucs chiants ou tordus qu'on doit apprendre par co
 - Pas d'article. Ni défini, ni indifini, C'est useless, on jette.
 - Pas de genre. Masculin / féminin / neutre. Ca sert à rien, ça dégage.
 - Pas de nombre. T'as pas besoin de pluriel.
+- Pas d'accord des adjectifs ou des verbes en genre et en nombre, forcément.
 - Pas de déclinaisons. 
 
 ## Pas de nombre
@@ -16,19 +17,6 @@ Par reduplication 人　>　人々　(Hito > Hitobito ). 人々　veut dire "des
 Par les suffixes -tachi (達) and -ra (等) qui désignent un groupe incluant le nom qu'ils suivent, et ça ne se fait qu'avec certain mots.
 
 
-## Pas d'accord des adjectifs
-
-Ben forcément, pas de genre, pas de nombre, y'a rien à accorder entre les adjectifs et les noms, easy.
-
-
-## Pas de déclinaisons
-
-
-
-
-## Pas de pronoms possessif ou reflechis
-
-"Je - Me - Mon/Ma/Mes", "Ils - Se - Leur/Leurs" Tout ça est remplacé par l'équivalent de des pronoms japonais invariables qui sont souvent des noms communs utilisés en temps que pronom.
 
 ## Pas de conjugaison avec la personne
 
@@ -117,15 +105,16 @@ Dans お**とうと** が on monte entre la première et la seconde more mais on
 
 # La grammaire
 
-On reste dans les bonne nouvelles, la grammaire japonaise est un truc super élégant
-
+On reste dans les bonne nouvelles, la grammaire japonaise est un truc plutôt élégant 
 
 
 ## Les particules
 
 En japonais, il n'y a pas de genre et pas de nombre, c'est presque dommage de ne pas avoir de déclinaisons, du coup... Et c'est là que la magie opère: Il y a des particules de cas grammatical qui font exactement la même chose que les déclinaisons, et c'est même pas une inflection, c'est juste un truc que t'ajoutes après ton groupe nominal.
 
+Une petite particularité au sujet des particules, c'est qu'il y en a 3 qui ont une prononciation différente du kana avec lequel on les écrit. 
 
+**は**, **を** et **へ**. se prononcent respectivement (wa, o, e) au lieu de (ha, wo, he) quand elles sont des particules et normalement le reste du temps. La raison pour ça est que l'orthographe a été réformée en 1900 mais c'eut été trop chelou de changer ceux là car ça rendait les phrases impossibles à parser d'un coup d'oeil. Ca a l'air horrible en théorie mais en pratique on se rend vite compte que c'était un très bon move de ne pas toucher aux particules. T'as pas envoie d'avoir des お, des え　et des わ qui se baladent dans les phrases, surtout à la fin de mots là ou は, を et へ sont très faciles à repérer pour analyser rapidement une phrase. を n'est même pas utiliseé ailleurs dans la langue.
 
 ### Les particules de cas 格助詞
 
@@ -155,19 +144,63 @@ En général, on spécifie le sujet grammatical quand on veut spécifiquement me
 Particules adverbiales 副助詞
 
 
-### La prononciation des particules は, を et へ.
-
-は, を et へ. se prononcent respectivement (wa, o, e) au lieu de (ha, wo, he) quand elles sont des particules et normalement le reste du temps. La raison pour ça est que l'orthographe a été réformée en 1900 mais c'eut été trop chelou de changer ceux là car ça rendait les phrases impossibles à parser d'un coup d'oeil. Ca a l'air horrible en théorie mais en pratique on se rend vite compte que c'était un très bon move de ne pas toucher aux particules. T'as pas envoie d'avoir des お, des え　et des わ qui se baladent dans les phrases, surtout à la fin de mots là ou は, を et へ sont très faciles à repérer pour analyser rapidement une phrase. を n'est même pas utiliseé ailleurs dans la langue.
-
 
 
 # Les mauvaises nouvelles
 
 ## Les dialects
 
-Lorsqu'on parle de Japonais ici, il faut savoir qu'on parle en réalité du Japonais Moderne Standard. Le Japonais Standard est le dialect de la métropole de Tokyo, mais il y en a un paquet d'autres, le plus couramment rencontré dans les médias le dialect du Kansai (Osaka, Kobe, Kyoto). 
+Lorsqu'on parle de Japonais ici, il faut savoir qu'on parle en réalité du Japonais Moderne Standard. Le Japonais Moderne Standard est le dialect de la métropole de Tokyo, mais il y en a un paquet d'autres, le plus couramment rencontré dans les médias le dialect du Kansai (Osaka, Kobe, Kyoto). 
+
+Les autres dialectes se distinguent par une accentuation différente des mots, un vocabulaire différent, la vocalisation de certaines consonnes, 
 
 En pratique, quand t'as des mecs qui ont fait plouc LV1 qui passent à la télé, il y a des sous-titres et dans les programmes de fiction, les accents et les dialectes sont un peu nerfés.
+
+## Kango, Wago et Garaigo
+
+Il y a trois sources de vocabulaire en japonais. Le vocabulaire sino-japonais - le **漢語** (kango), les mots d'origine japonaise - **和語** (wago) et les mots d'origine étrangère autre que que chinoise - **外来語** (garaigo).
+
+### Kango
+
+La majorité du vocabulaire provient du chinois et à été importée au fur et à mesure des siècles. Ils constituent 60% des mots du dictionnaire mais seulement 20% des mots du language courant, la raison étant qu'il s'agit de mots plutôt techniques, spécialisés ou abstraits. Comme ils viennent du chinois, il s'écrivent généralement uniquement avec des kanji et donc sont invariables.
+
+Une sous classe du kango est le **和製漢語** (wasei-kango). Il s'agit de mots qui reprennent la construction des mots d'origine sino-japonaise, se lisent avec la lecture sino-japonaise mais sont originaires du japon comme **芸者** (geisha).
+
+Il s'agit d'une classe ouverte, c'est à dire que c'est une classe de vocabulaire qui permet d'introduire facilement de nouveaux mots.
+
+### Wago
+
+Les japonais ont naturellement aussi un vocabulaire autochtone, le **和製漢語** (wago). Wago est d'ailleurs un mot kango et comme l'ironie n'a pas échappée aux japonais, ils ont un autre terme pour ce vocabulaire - **大和言葉** (yamato kotoba) qui lui est du wago. Il s'agit du vocabulaire plus fondamental de la langue japonaise.
+
+En japonais moderne, les mots wago utilisent potentiellement des kanji mais se terminent souvent par des hiragana, car ils peuvent être infléchis. 
+
+C'est une classe fermée, il est très rare que de nouveaux mots soient introduits
+
+### Garaigo
+
+Des mots d'origine étrangère autre que chinoise sont appelés **外来語**. Il s'agit de mots d'emprunt mais ils sont néanmoins des mots japonais avec un sens japonais. Ils s'écrivent généralement en katakana et peuvent provenir de diverses langues, majoritairement l'anglais, mais aussi l'allemand, le français et le portugais.
+
+Leur sens est parfois décorellé de leur langue d'origine, **ベビーカー** (de l'anglais "baby-car", "poussette"), **サボる** (du français "saboter", "sécher le travail ou l'école").
+
+C'est - par définition - une classe ouverte.
+
+## Les compteurs
+
+Les nombres qui désignent une quantité de quelque chose en japonais sont 
+
+## Keigo - La politesse
+
+La langue japonaise est empreinte des règles de politesse de la société japonaise. Le principe fondamentale derrière ces règles est d'abaisser ce qui concerne nous concerne et d'élever ce qui concerne l'autre'. Ainsi, quand quelqu'un fait quelque chose pour nous ou nous donne quelque chose, il l'abaisse **くれる** ou **下さる**, tandis que si nous donnons quelque chose à quelqu'un ou nous faisons quelque chose pour quelqu'un, on l'élève, **上げる**
+
+
+### Teineigo - Le language poli
+
+### Sonkeigo - Le language honorifique
+
+### Kenjougo - Le language humble
+
+### Tameguchi - La language familier
+
 
 
 # Le système d'écriture est claqué au sol
@@ -176,7 +209,7 @@ On a 4 systèmes d'écriture différents à connaitre pour lire et écrire en ja
 
 ## Romaji
 
-Ca c'est facile, c'est les caractères romains, qui vont parfois apparaitre dans des mots comme J-POP - Jポップ. Je les ai listé par souci d'exhaustivité.
+Ca c'est facile, c'est les caractères romains, qui vont parfois apparaitre dans des mots comme J-POP - Jポップ. Je les ai listé par souci d'exhaustivité parceque si tu connais pas les caractères romains, je sais pas comment t'es arrivé jusqu'ici.
 
 ## Hiragana et Katakana 
 
@@ -186,8 +219,6 @@ Les katakana sont utilisés pour écrire certaines catégories de mots comme les
 
 Naturellement vu le nombre de phonèmes très bas de la langue, il y a va y avoir beaucoup d'homophones. C'est là qu'interviennent les kanji.
 
-
-
 Les caractères chinois ont été utilisés sémantiquement ou phonétiquement en fonction des cas. Les kana ont été formé en simplifiant ces kanji utilisés phonétiquement (久 > く, 八 > ハ).
 
 Il y a 4 classes de kanji
@@ -196,7 +227,7 @@ Il y a 4 classes de kanji
 
 # Pourquoi c'est la merde ?
 
-Les kanji, tellement c'est claqué au sol, c'est irréel. Limite ça rend le truc fun pour le coté challenge, comme coder en Brainfuck ou jouer à Tarkov.
+Les kanji, tellement c'est claqué au sol, c'est irréel. Limite ça rend le truc fun pour le coté challenge absurde, comme coder en Brainfuck ou jouer à Tarkov.
 
 ## Les Kanji - 漢字
 
@@ -247,11 +278,11 @@ C'est tellement perché que c'est un problème même pour les japonais. Il est c
 
 ## Le nombre de kanji
 
-Il existe une liste officielle maintenue par le gouvernement japonais de Kanji employés dans la vie de tous les jours appelée Jouyou Kanji - 常用漢字. Cette liste contient 2136 caractères. 
+Il existe une liste officielle maintenue par le gouvernement japonais de Kanji employés dans la vie de tous les jours appelée **常用漢字** (Jouyou Kanji). Cette liste contient 2136 caractères. 
 
-Il y a aussi la liste des caractères utilisés dans les noms propres Jinmeiyou Kanji - 人名用漢字 qui comporte 863 caractères dont 615 ne font pas partie des jouyou kanji.
+Il y a aussi la liste des caractères utilisés dans les noms propres - **人名用漢字** (Jinmeiyou Kanji) qui comporte 863 caractères dont 615 ne font pas partie des jouyou kanji.
  
-Et il y a le reste, les hyougaiji - 表外字 qui composent le reste des 50 000 caractères existants. En théorie il n'y a pas besoin de les connaitre mais en pratique il y en a beaucoup qui sont aussi utilisés au quotidien mais qui n'ont pas été intégrés à la liste Jouyou, 嘘 (Mensonge) est un exemple typique.
+Et il y a le reste, les **表外字** (hyougaiji) qui composent le reste des 50 000 caractères existants. En théorie il n'y a pas besoin de les connaitre mais en pratique il y en a beaucoup qui sont aussi utilisés au quotidien mais qui n'ont pas été intégrés à la liste Jouyou, 嘘 (Mensonge) est un exemple typique.
 
 
 ## Comment on s'en tire
