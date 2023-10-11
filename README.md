@@ -364,7 +364,7 @@ Il existe une liste officielle maintenue par le gouvernement japonais de Kanji e
 
 Il y a aussi la liste des caractères utilisés dans les noms propres - **人名用漢字** (Jinmeiyou Kanji) qui comporte 863 caractères dont 615 ne font pas partie des jouyou kanji.
  
-Et il y a le reste, les **表外字** (hyougaiji) qui composent le reste des 50 000 caractères existants. En théorie il n'y a pas besoin de les connaitre mais en pratique il y en a beaucoup qui sont aussi utilisés au quotidien mais qui n'ont pas été intégrés à la liste Jouyou, 嘘 (Mensonge) est un exemple typique.
+Et il y a le reste, les **表外字** (hyougaiji) qui composent le reste des 50 000 caractères existants. En théorie il n'y a pas besoin de les connaitre mais en pratique il y en a beaucoup qui sont aussi utilisés au quotidien mais qui n'ont pas été intégrés à la liste Jouyou, **嘘** (Mensonge) est un exemple typique.
 
 
 ## Comment on s'en tire
@@ -393,7 +393,9 @@ Par exemple **寺** se lit **ji** et ça veut dire temple bouddhiste (par opposi
 
 Quand on parle de "se lire" pour un kanji, on parle du **on-yomi**, de la lecture sino-japonaise. C'est normal vu que c'est des caractères chinois et la partie phonétique vient forcément du chinois.
 
-D'autre part, il faut savoir que la composante sémantique est souvent le radical d'un kanji qui a été rajouté après.
+D'autre part, il faut savoir que la composante sémantique est souvent le radical d'un kanji et qu'il a été qui a été rajouté plus tard. Ce qui veut dire qu'avant l'ajout de la composante sémantique, la composante phonétique portait à la fois le son et le sens du kanji. Ca joue pour comprendre que c'est souvent la composante phonétique qu'on va retrouver dans les idéographes composites.
+
+
 
 
 
