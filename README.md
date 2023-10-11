@@ -10,12 +10,6 @@ La très large majorité des trucs chiants ou tordus qu'on doit apprendre par co
 
 ## Pas de nombre
 
-Il existe des affixes de collectivisation des noms pour définir un ensemble par opposition à une seule occurence. 
-
-Par reduplication 人　>　人々　(Hito > Hitobito ). 人々　veut dire "des gens" ou "le peuple", mais pas "personnes" au pluriel (々 est un marqueur de répétition pour éviter de réécrire le même kanji).
-
-Par les suffixes -tachi (達) and -ra (等) qui désignent un groupe incluant le nom qu'ils suivent, et ça ne se fait qu'avec certain mots.
-
 
 
 ## Pas de conjugaison avec la personne
@@ -63,6 +57,9 @@ Le marqueur **ﾞ** s'appelle **dakuten** et signale les prononciations vocalis�
 
 Le marqueur diacritique **ﾟ** s'appelle **handdakuten** et signale les prononciations plosives du kana de base. Passer de **hi** à **pi** consiste à rendre la consonne plosive avec ses levres.
 
+## Rendaku - la liaison par vocalisation
+
+TODO
 
 ## La dévocalisation
 
@@ -116,7 +113,7 @@ Une petite particularité au sujet des particules, c'est qu'il y en a 3 qui ont 
 
 **は**, **を** et **へ**. se prononcent respectivement (wa, o, e) au lieu de (ha, wo, he) quand elles sont des particules et normalement le reste du temps. La raison pour ça est que l'orthographe a été réformée en 1900 mais c'eut été trop chelou de changer ceux là car ça rendait les phrases impossibles à parser d'un coup d'oeil. Ca a l'air horrible en théorie mais en pratique on se rend vite compte que c'était un très bon move de ne pas toucher aux particules. T'as pas envoie d'avoir des お, des え　et des わ qui se baladent dans les phrases, surtout à la fin de mots là ou は, を et へ sont très faciles à repérer pour analyser rapidement une phrase. を n'est même pas utiliseé ailleurs dans la langue.
 
-### Les particules de cas 格助詞
+### Les particules de cas
 
 Un des autres trucs pénibles qu'on nous fait bouffer en allemand/russe/latin etc, c'est les déclinaisons. En soi les déclinaisons c'est cool, ça permet de connaitre directement le cas gramatical d'un groupe nominal via une inflection sauf que c'est la purge à apprendre. Mais cette inflection est combinatoire par le genre et par le nombre et souvent par groupe de déclinaison, c'est ce qui fait que les déclinaisons prennent la forme de tableaux, genre beaucoup de tableaux ou alors un seul tableau mais avec beaucoup de multidimentions.
 
@@ -141,13 +138,37 @@ La seule particularité notable est celui du marquage spécial pour le sujet th�
 
 En général, on spécifie le sujet grammatical quand on veut spécifiquement mettre l'emphase dessus, "C'est moi qui l'ai mangé", ou dans le cas d'une proposition subordonnée car il y a plusieurs sujets dans la phrase mais un seul thème.
 
-## La particule は
+### La particule は
 
-TODO 
+Il existe beaucoup d'autre particules qui ne marquent pas un cas grammatical mais qui servent de conjonction, d'adverbe etc. La particule **は** - prononcée wa (et non pas ha) quand c'est une particule - marque le thème d'une phrase. 
 
-Il existe beaucoup d'autre particules qui ne marquent pas un cas grammatical, 
+Quand le theme est marqué, il peut remplacer le sujet, l'objet direct ou être utilisée adverbialement et naturellement, ce qui est remplacé n'est pas répété.
 
+Marquer le thème n'est pas systématique. On le fait que quand c'est ambigü. 
 
+### Les particules de fin de phrase 
+
+En plus de marquer les groupes nominaux, il existe des particules qui servent à donner le ton d'une phrase.
+
+|    | Role                 |
+|:---|:---------------------|
+| か | Question             |
+| な | Spéculation          |
+| よ | Assertion            |
+| ぞ | Assertion            |
+| ね | Accord et reflection |
+
+## La collectivisation
+
+Comme il n'y a pas de nombre et de pluralisation, il existe des affixes de collectivisation des noms pour définir un ensemble par opposition à une seule occurence. 
+
+Par reduplication **人**　>　**人々**　"Hito" > "Hitobito". **々** est un marqueur de répétition pour éviter de réécrire le même kanji **人人**.
+
+Par les suffixes **達** -tachi  and **等** -ra  qui désignent un groupe incluant le nom qu'ils suivent, et ça ne se fait qu'avec certain mots.
+
+La collectivisation n'est pas un pluriel, **人々** veut dire "des gens" ou "le peuple", mais pas "personnes
+
+".
 
 # Les mauvaises nouvelles
 
@@ -190,18 +211,63 @@ C'est - par définition - une classe ouverte.
 
 ## Les nombres
 
-TODO 
-
 Il existe deux façons de comtper en japonais, une en wago et une en kango. La façon dominante est de compter en kango
 
-Déjà, en wago, on n'a que les nombres de 1 à 10 et 20.
+Déjà, en wago, on n'utilise plus réellement que les nombres de 1 à 10 et 20 et que dans certains cas comme pour les jours du mois, l'age de petits enfants ou pour dire "20 ans", les gens quand ils sont moins de trois... Pour le reste c'est en kango. 
 
+| #      |kanji | kango      | wago         |
+|:------:|:----:|:-----------|:-------------|
+| 0      | 零   | rei        |              |
+| 1      | 一   |	ichi       | hito(tsu)   |
+| 2      | 二   |	ni         | futa(tsu)   |
+| 3      | 三   |	san        | mit(tsu)    |
+| 4      | 四   |	shi        | yot(tsu)    |
+| 5      | 五   |	go         | itsu(tsu)   |
+| 6      | 六   |	roku       | mut(tsu)    |
+| 7      | 七   |	shichi     | nana(tsu)   |
+| 8      | 八   |	hachi      | yat(tsu)    |
+| 9      | 九   |	ku, kyuu   | kokono(tsu) |
+| 10     | 十   |	jū         | too(tsu)    |
+| 20     | 二十 |	ni-juu     | hata(tsu)   |
+| 100    | 百   |	hyaku      |             |
+| 1000   | 千   |	sen        |             |
+| 10000  |　万  |	man        |             |
+
+On est en base décimale et on compose les nombres de la manière suivante **二千二十三年** - L'an 2023.
+
+Les kanji **一**, **二** et **三** sont simples à écrire mais si on écrit un cheque ou un contrat, on a vite fait d'ajouter une barre par ci par là pour truander le truc. Dans les documents légaux, ils sont respéctivement remplacés par **壱**, **弌** et **壹**.
 
 ## Les compteurs
 
-TODO 
+Les nombres qui désignent une quantité de quelque chose en japonais ne sont pas utilisés sans ajouter un compteur derrière. Les compteurs sont spécifiques à ce qui est dénombré en fonction de sa forme et de sa taille, de sa nature. Il y a un paquet de compteurs, certains sont très courants, certains sont obscures et excessivement spécifiques.
 
-Les nombres qui désignent une quantité de quelque chose en japonais sont 
+Il y a un compteur générique **つ**, mais il utilise la numération wago. Les autres utilisent la numération kango et sont plus spécifiques.
+
+|      |                  | objet                 |
+|:----:|:-----------------|:----------------------|
+| つ   | tsu              | compteur générique    |
+| 個   | ko               | petits objets         |
+| 本   | hon              | objets longs          |
+| 枚   | mai              | objets plats          |
+| 人   | nin              | gens                  |
+| 度   | do               | degrés                |
+| 回   | kai              | occurences            |
+| 時   | ji               | heures                |
+| 台   | dai              | machines              |
+
+Et ça serait dommage de ne pas se faire quelques compteurs obscures.
+
+|      |                  | objet                           |
+|:----:|:-----------------|:--------------------------------|
+| 通り | touri            | permutations combinatoires      |
+| 発   | hatsu            | tirs, orgasmes                  |
+| 張   | hari             | parapluies, ombrelles, tentes   |
+| 泊   | haku             | nuitées                         |
+| 流   | ryuu             | étendards                       |
+| 機   | ki               | aeronefs                        |
+
+Il y a environ 350 compteurs, dont environ 70 sont utilisés courament. Le truc cool c'est que contrairement aux autres langues, leur usage est sytématique, on n'a pas à deviner si on doit dire "un papier" ou "une feuille de papier".
+
 
 ## Keigo - La politesse
 
@@ -342,9 +408,7 @@ jpdb.io
 
 joy o' kanji
 
-# TODO
+### Compteurs
 
+https://www.tofugu.com/japanese/japanese-counters-list/
 
-Et ça correspond à un phénomène appelé rendaku - vocalisation séquentielle. Par exemple
-
-人 (ひと) qui veut dire "personne" peut être redupliqué pour former 人々 (ひとびと) qui veut dire les gens, mais la reduplication ne se lit pas hitohito, mais hitobito.
