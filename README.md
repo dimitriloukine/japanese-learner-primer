@@ -310,24 +310,25 @@ Il y a 4 classes de kanji
 
 Les kanji, tellement c'est claqué au sol, c'est irréel. Limite ça rend le truc fun pour le coté challenge absurde, comme coder en Brainfuck ou jouer à Tarkov.
 
-## Les Kanji - 漢字
+## Les Kanji
 
 Jusqu'au 5ème siecle, il n'y avait pas de système d'écriture au japon, c'était la merde. D'ailleurs, Kanji veut dire "charactère chinois", enfin ça veut dire "caractère Han" qui est l'ethnie chinoise qui pèse le plus dans le game.
 
-Les japonais ont emprunté le système d'écriture des chinois et se sont mis à écrire leurs documents officiels en d'abord en chinois classique (Kanbun - 漢文) puis en dans un mélange de chinois et de japonais.
-
+Les japonais ont emprunté le système d'écriture des chinois et se sont mis à écrire leurs documents officiels en d'abord en chinois classique puis en dans un mélange de chinois et de japonais.
 
 ## La lecture des kanji
 
-Le caractère **日** est un pictogramme qui représente le soleil (faut connaitre l'étymologie du truc pour y voir un soleil) et veut dire "soleil" ou "jour". Je sais qu'en le regarant on se dit que le mec qui l'a inventé a jamais vu le solei de sa vie, mais à la base ça resemblait plus à ça **⊙** et le cercle est devenu plus carré puis le point du milieu et devenu un trait.
+Le caractère **日** est un pictogramme qui représente le soleil et veut dire "soleil" ou "jour". Je sais qu'en le regardant on se dit que le mec qui l'a inventé a jamais vu le solei de sa vie, mais à la base ça resemblait plus à ça **⊙** et le cercle est devenu plus carré puis le point du milieu et devenu un trait.
 
-Quand ce kanji débarque au japon au 5ème siecle, les japonais ont déjà un mot pour dire "jour", c'est ***hi***, donc ils vont lire 日 ***hi***, mais ils ont aussi un mot pour dire "jour du mois" donc ils vont aussi lire 日 - ***ka***. Cette lecture c'est le **kun-yomi** qui emploie la lecture sémantique du kanji qui y attribue un mot d'origine japonaise préexistant.
+Quand ce kanji débarque au japon au 5ème siecle, les japonais ont déjà un mot pour dire "jour", c'est ***hi***, donc ils vont lire 日 ***hi***, mais ils ont aussi un mot pour dire "jour du mois" donc ils vont aussi lire 日 - ***ka***. Cette lecture c'est le **kun-yomi** qui emploie la lecture sémantique du kanji mais qui y attribue un mot d'origine japonaise préexistant.
 
-Le mot **日** qui s'écrit juste avec le kanji 日 se lit ***hi***.
+Le mot **日** qui s'écrit juste avec le kanji 日 se lit ***hi***. Ca veut dire "jour".
 
 Le mot 二**日**酔い se prononce futsu**ka**yoi. Ca veut dire "gueule de bois" (lit. ivresse du second jour).
 
-Sauf que les marchands chinois qui ont importés ce Kanji au 5ème, ils l'utilisaient et ils avaient leur propre lecture que les japonais ont transformé en "jitsu" en se l'appropriant, cette lecture c'est le **go-on**. Sauf que ces marchands chinois, c'était pas des Han, c'était des Wu. Quand les Han ont débarqué au 8ème siecle ils avaient aussi leur propre lecture que les japonais se sont empressés d'embarquer et de transformer en "nichi" qui est le **kan-yomi** de ce kanji. L'ensemble des lectures sino-japonaises du kanji s'appellent **on-yomi**.
+Sauf que les marchands chinois qui ont importés ce Kanji au 5ème, ils l'utilisaient et ils avaient leur propre lecture que les japonais ont transformé en "jitsu" en se l'appropriant, cette lecture c'est le **go-on**. Sauf que ces marchands chinois, c'était pas des Han, c'était des Wu. Quand les Han ont débarqué au 8ème siecle ils avaient aussi leur propre lecture que les japonais se sont empressés d'embarquer et de transformer en "nichi" qui est le **kan-on** de ce kanji.
+
+L'ensemble des lectures sino-japonaises du kanji s'appellent **on-yomi** qui regroupe donc le **go-on**, le **kan-on** et également la prononciation **tou-on** importée à partir du 10ème siècle par les Song et les Ming.
 
 Le mot 本**日** se prononce hon**jitsu** et ça veut dire "aujourd'hui", dans un language assez soutenu.
 
