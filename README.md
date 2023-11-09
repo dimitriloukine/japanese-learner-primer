@@ -10,7 +10,7 @@ La très large majorité des trucs chiants ou tordus qu'on doit apprendre par co
 
 ## Pas de nombre
 
-
+Il n'y a pas de pluralisation, donc pas d'inflection de pluralisation.
 
 ## Pas de conjugaison avec la personne
 
