@@ -181,7 +181,9 @@ Le nom du groupe de verbes godan peut laisser penser que c'est des verbes du 5è
 
 On sait que les kana se calent sur un tableau en suivant la voyelle de par laquelle le kana se termine. En gros う, く, す, つ, ぬ, ふ, む et る sont sur le même rang, pareil pour い, き, し, ち, に, ひ, み et り, etc.
 
-Les verbes 五段動詞 (Godan-doushi) qui se nomment ainsi parce que l'inflexion de leur conjugaison se décale d'un rang à l'autre 
+Les verbes 五段動詞 (Godan-doushi) qui se nomment ainsi parce que l'inflexion de leur conjugaison se décale d'un rang à l'autre en fonction de la forme qu'on veut donner au verbe avant de lui adjoindre un auxiliaire.
+
+Il y a 5 rangs
 
 |  あ  | い  |  う  | え  |  お  |
 
