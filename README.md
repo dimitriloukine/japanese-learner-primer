@@ -1,3 +1,7 @@
+# Avant-propos
+
+Ce document est essentiellement une forme de cahier retrospectif sur le fonctionnement de la langue japonaise pour mon propre usage mais écrite dans une perspective s'adressant à une tierce personne.
+
 # Les bonnes nouvelles
 
 La très large majorité des trucs chiants ou tordus qu'on doit apprendre par coeur et qui sont source d'erreur dans les autres langues n'existent pas vraiment en japonais.
@@ -20,7 +24,7 @@ La on commence à voir que tout ce qui a la gueule d'un tableau dans un bouquin 
 
 # La phonétique
 
-Et en plus la notion de syllabe n'est pas réellement pertinente en japonais, et la notion de more est préfére. La différence entre une syllabe et une more, c'est que la more est une unité phonetique plus précise - une syllabe peut être composée de plusieurs mores - et attache à un temps. Pas un temps grammatical, un temps comme en musique, un beat.
+Et en plus la notion de syllabe n'est pas réellement pertinente en japonais, et la notion de more est préférée. La différence entre une syllabe et une more, c'est que la more est une unité phonetique plus précise - une syllabe peut être composée de plusieurs mores - et attache à un temps. Pas un temps grammatical, un temps comme en musique, un beat.
 
 Tōkyō (to-o-kyo-o, とうきょう) et Ōsaka (o-o-sa-ka, おおさか) Nagasaki (na-ga-sa-ki, ながさき) se décomposent respectivement en 2,3 et 4 syllabes, mais tous se décomposent en 4 mores.
 
@@ -49,7 +53,7 @@ Une more en japonais correspond à un kana tout seul "あ, じ, ん..." **sei-on
 
 ## La vocalisation
 
-En regardant le tableau des kana, on voit que certains kana ont des marqueurs, par exemple **ひ** / **び** / **ぴ** pour les sons hi, bi et pi c'est pas un hasard.
+En regardant le tableau des kana, on voit que certains kana ont des marqueurs, par exemple **ひ** / **び** / **ぴ** pour les sons **hi**, **bi** et **pi** c'est pas un hasard.
 Les diacritiques **ﾞ** et **ﾟ** marquent les prononciations **daku-on**.
 
 Le marqueur **ﾞ** s'appelle **dakuten** et signale les prononciations vocalisées du kana non-vocalisé de base. La seule différence entre les sons **hi** et **bi**, c'est que pour faire **bi**, on fait vibrer son larynx, il suffit de poser ses doigts sur sa glotte pour s'en rendre compte.
@@ -59,6 +63,7 @@ Le marqueur diacritique **ﾟ** s'appelle **handdakuten** et signale les prononc
 ## Rendaku - la liaison par vocalisation
 
 TODO
+
 
 ## La dévocalisation
 
@@ -137,11 +142,11 @@ En général, on spécifie le sujet grammatical quand on veut spécifiquement me
 
 ### La particule は
 
-Il existe beaucoup d'autre particules qui ne marquent pas un cas grammatical mais qui servent de conjonction, d'adverbe etc. La particule **は** - prononcée wa (et non pas ha) quand c'est une particule - marque le thème d'une phrase.
+Il existe beaucoup d'autre particules qui ne marquent pas un cas grammatical mais qui servent de conjonction, d'adverbe etc. La particule **は** - prononcée **wa** (et non pas ha) quand c'est une particule - marque le thème d'une phrase.
 
 Quand le theme est marqué, il peut remplacer le sujet, l'objet direct ou être utilisée adverbialement et naturellement, ce qui est remplacé n'est pas répété.
 
-Marquer le thème n'est pas systématique. On le fait que quand c'est ambigü.
+Marquer le thème n'est pas systématique. On le fait que quand c'est ambigü et on évite de le faire quand c'est évident.
 
 ### Les particules de fin de phrase
 
@@ -161,7 +166,7 @@ TODO
 
 En français on emploie le verbe "être" dans des phrases comme "Je pense donc je suis" et "la voiture est rouge". Dans la première phrase c'est un verbe intransitif d'existance, "je pense donc j'existe". Dans la seconde, c'est une copule, c'est-à-dire un verbe qui établit un lien entre le sujet et le prédicat dans une phrase déclarative, "la voiture = rouge".
 
-En japonais, on distingue les verbes d'existance (**ある**/**いる**/**おる**) de la copule (**だ**/**です**). 
+En japonais, on distingue les verbes d'existance (**ある**/**いる**/**おる**) de la copule (**だ**/**です**).
 
 ## La collectivisation
 
@@ -175,7 +180,7 @@ La collectivisation n'est pas un pluriel, **人々** veut dire "des gens" ou "le
 
 ## La conjugaison
 
-Il y a deux groupes de verbes: les verbes 五段動詞 (Godan-doushi), les verbes 一段動詞 (Ichidan-doushi). Et il n'y a que deux verbes irréguliers, 来る (kuru) et する (suru).
+Il y a deux groupes de verbes: les verbes 五段動詞 (Godan-doushi), les verbes 一段動詞 (Ichidan-doushi). Et il n'y a que deux verbes irréguliers, 来る (kuru) et する (suru) à connaitre dans un premier temps.
 
 ### Les verbes Godan
 
@@ -192,7 +197,7 @@ Il y a 5 rangs
 
 
 
-Il y a un petit coup de vice quand même, う devient わ au lieu de あ quand il passe à la colonne des あ.
+Il y a un petit coup de vice quand même, le **う** des verbes en **う** devient **わ** au lieu de **あ** quand il passe à la colonne des **あ**. Par exemple **買う** devient **買わない**.
 
 ### Les verbes Ichidan
 
@@ -243,7 +248,7 @@ C'est - par définition - une classe ouverte.
 
 ## Les nombres
 
-Il existe deux façons de comtper en japonais, une en wago et une en kango. La façon dominante est de compter en kango
+Il existe deux façons de compter en japonais, une en wago et une en kango. La façon dominante est de compter en kango
 
 Déjà, en wago, on n'utilise plus réellement que les nombres de 1 à 10 et 20 et que dans certains cas comme pour les jours du mois, l'age de petits enfants ou pour dire "20 ans", les gens quand ils sont moins de trois... Pour le reste c'est en kango.
 
@@ -267,7 +272,7 @@ Déjà, en wago, on n'utilise plus réellement que les nombres de 1 à 10 et 20 
 
 On est en base décimale et on compose les nombres de la manière suivante **二千二十三年** - L'an 2023.
 
-Les kanji **一**, **二** et **三** sont simples à écrire mais si on écrit un cheque ou un contrat, on a vite fait d'ajouter une barre par ci par là pour truander le truc. Dans les documents légaux, ils sont respéctivement remplacés par **壱**, **弌** et **壹**.
+Les kanji **一**, **二** et **三** sont simples à écrire mais si on écrit un cheque ou un contrat, on a vite fait d'ajouter une barre par-ci par-là pour truander le truc. Dans les documents légaux, ils sont respéctivement remplacés par **壱**, **弌** et **壹**.
 
 ## Les compteurs
 
@@ -320,13 +325,20 @@ TODO
 
 TODO
 
+
+
+
+
+
+
+
 # Le système d'écriture est claqué au sol
 
 On a 4 systèmes d'écriture différents à connaitre pour lire et écrire en japonais.
 
 ## Romaji
 
-Ca c'est facile, c'est les caractères romains, qui vont parfois apparaitre dans des mots comme J-POP - J ポップ. Je les ai listé par souci d'exhaustivité parceque si tu connais pas les caractères romains, je sais pas comment t'es arrivé jusqu'ici.
+Ca c'est facile, c'est les caractères latins, qui vont parfois apparaitre dans des mots comme J-POP - **J ポップ**. Je les ai listé par souci d'exhaustivité parceque si tu connais pas les caractères latins, je sais pas comment t'es arrivé jusqu'ici.
 
 ## Hiragana et Katakana
 
@@ -352,7 +364,7 @@ Les japonais ont emprunté le système d'écriture des chinois et se sont mis à
 
 ## La lecture des kanji
 
-Le caractère **日** est un pictogramme qui représente le soleil et veut dire "soleil" ou "jour". Je sais qu'en le regardant on se dit que le mec qui l'a inventé a jamais vu le solei de sa vie, mais à la base ça resemblait plus à ça **⊙** et le cercle est devenu plus carré puis le point du milieu et devenu un trait.
+Le caractère **日** est un pictogramme qui représente le soleil et veut dire "soleil" ou "jour". Je sais qu'en le regardant on se dit que le mec qui l'a inventé devait être Breton parce qu'il n'a jamais vu le solei de sa vie, mais à la base ça resemblait plus à ça **⊙** et le cercle est devenu plus carré puis le point du milieu et devenu un trait.
 
 Quand ce kanji débarque au japon au 5ème siecle, les japonais ont déjà un mot pour dire "jour", c'est **hi**, donc ils vont lire 日 **hi**, mais ils ont aussi un mot pour dire "jour du mois" donc ils vont aussi lire 日 - **ka**. Cette lecture c'est le **kun-yomi** qui emploie la lecture sémantique du kanji mais qui y attribue un mot d'origine japonaise préexistant.
 
@@ -360,9 +372,9 @@ Le mot **日** qui s'écrit juste avec le kanji 日 se lit **hi**. Ca veut dire 
 
 Le mot 二**日**酔い se prononce futsu**ka**yoi. Ca veut dire "gueule de bois" (lit. ivresse du second jour).
 
-Sauf que les marchands chinois qui ont importés ce Kanji au 5ème, ils l'utilisaient et ils avaient leur propre lecture que les japonais ont transformé en "jitsu" en se l'appropriant, cette lecture c'est le **go-on**. Sauf que ces marchands chinois, c'était pas des Han, c'était des Wu. Quand les Han ont débarqué au 8ème siecle ils avaient aussi leur propre lecture que les japonais se sont empressés d'embarquer et de transformer en "nichi" qui est le **kan-on** de ce kanji.
+Sauf que les marchands chinois qui ont importés ce Kanji au 5ème siècle, ils l'utilisaient et ils avaient leur propre lecture que les japonais ont transformé en **jitsu** en se l'appropriant. Et ces marchands chinois, c'était pas des Han, c'était des Wu alors cette lecture c'est le **go-on**. Quand les Han ont débarqué au 8ème siecle ils avaient aussi leur propre lecture que les japonais se sont empressés d'embarquer et de transformer en **nichi** qui est le **kan-on** de ce kanji.
 
-L'ensemble des lectures sino-japonaises du kanji s'appellent **on-yomi** qui regroupe donc le **go-on**, le **kan-on** et également la prononciation **tou-on** importée à partir du 10ème siècle par les Song et les Ming.
+L'ensemble des lectures sino-japonaises du kanji s'appellent **on-yomi** car elle est basée sur le son original que ce kanji faisait pour les chinois qui l'ont importé. Il regroupe donc le **go-on**, le **kan-on** et également la prononciation **tou-on** importée à partir du 10ème siècle par les Song et les Ming.
 
 Le mot 本**日** se prononce hon**jitsu** et ça veut dire "aujourd'hui", dans un language assez soutenu.
 
@@ -384,21 +396,21 @@ Et c'est pas fini, le cauchemar continue.
 
 Le mot 今**日** se prononce **kyou**, le kanji **日** dans ce mot n'a pas de prononciation, c'est comme ça, le monde est injuste. Et ça veut dire "aujourd'hui".
 
-Le mot 今**日** se prononce kon**nichi**, et lui a une lecture on-yomi régulière, et il veut également dire "aujourd'hui", et oui, c'est le début de **こんいちは**.
+Le mot 今**日** se prononce kon**nichi**, et lui a une lecture on-yomi régulière, et il veut également dire "aujourd'hui", et oui, c'est le début de **こんいちは**. Et si t'es allé verifier que c'était exactement le même mot que l'exemple précedent, je peux te confirmer que c'est écrit exactement pareil.
 
 ### Furigana
 
-C'est tellement perché que c'est un problème même pour les japonais. Il est courant de voir certains mots surtitrés en kana et certaines publications destinées à la jeunesse comme les manga le font systématiquement.
+Le système d'écriture Japonais est tellement perché que c'est un problème même pour les japonais. Il est courant de voir certains mots surtitrés en kana et certaines publications destinées à la jeunesse comme les manga le font systématiquement.
 
 ## Le nombre de kanji
 
-Il existe une liste officielle maintenue par le gouvernement japonais de Kanji employés dans la vie de tous les jours appelée **常用漢字** (Jouyou Kanji). Cette liste contient 2136 caractères.
+Il existe une liste officielle maintenue par le gouvernement japonais de Kanji employés dans la vie de tous les jours appelée **常用漢字** (Jouyou Kanji). Cette liste contient 2136 caractères et restreint aussi les lectures qu'on est sensé connaitre.
 
 Il y a aussi la liste des caractères utilisés dans les noms propres - **人名用漢字** (Jinmeiyou Kanji) qui comporte 863 caractères dont 615 ne font pas partie des jouyou kanji.
 
 Et il y a le reste, les **表外字** (hyougaiji) qui composent le reste des 50 000 caractères existants. En théorie il n'y a pas besoin de les connaitre mais en pratique il y en a beaucoup qui sont aussi utilisés au quotidien mais qui n'ont pas été intégrés à la liste Jouyou, **嘘** (Mensonge) est un exemple typique.
 
-## Comment on s'en tire
+## Comment on s'en sort
 
 Bon, quand on a capté à quel point c'est tordu les kanji, c'est naturel de vouloir aller pleurer sous la douche mais il y a quand même quelques astuces.
 
